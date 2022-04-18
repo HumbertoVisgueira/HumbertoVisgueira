@@ -3,6 +3,7 @@
 - 🔭 Atualmente não estou trabalhando em nenhuma área.
 - 🌱 Estou aprendendo HTML e CSS para desenvolvimento front-end.
 - 📫 Contato via email: humbertovisgueira@gmail.com
+- 👨‍💻 Estudante de Análise de sistemas
 
 <div align="center">
   <a href="https://github.com/HumbertoVisgueira">
