@@ -1,9 +1,9 @@
 ## Oi, eu sou o Humberto Visgueira!
 
-- 🔭 Atualmente não estou trabalhando em nenhuma área.
 - 🌱 Estou aprendendo HTML e CSS para desenvolvimento front-end.
 - 📫 Contato via email: humbertovisgueira@gmail.com
-- 👨‍💻 Estudante de Análise e Desenvolvimento de sistemas
+- 👨‍💻 Estudante de Análise e Desenvolvimento de sistemas - 2 periodo
+- 👨‍ Experiencia com as linguagem de programação C e Python
 
 <div align="center">
   <a href="https://github.com/HumbertoVisgueira">
